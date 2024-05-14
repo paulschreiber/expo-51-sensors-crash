@@ -1,4 +1,14 @@
 {
-  "name": "foo",
-  "displayName": "foo"
+  "expo": {
+    "name": "foo",
+    "splash": {
+      "backgroundColor": "#ffffff"
+    },
+    "android": {
+      "package": "com.anonymous.foo"
+    },
+    "ios": {
+      "bundleIdentifier": "com.anonymous.foo"
+    }
+  }
 }
