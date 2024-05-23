@@ -11,8 +11,8 @@
     "prebuild": "expo prebuild"
   },
   "dependencies": {
-    "expo": "~51.0.6",
-    "expo-sensors": "^13.0.6",
+    "expo": "~51.0.8",
+    "expo-sensors": "~13.0.7",
     "react": "18.2.0",
     "react-native": "^0.74.1"
   },
